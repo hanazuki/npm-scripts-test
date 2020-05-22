@@ -1,0 +1,20 @@
+{
+  "name": "piyopiyo",
+  "version": "0.0.1",
+  "private": "true",
+  "scripts": {
+    "prepublish": "touch prepublish",
+    "prepare": "touch prepare",
+    "prepublishOnly": "touch prepublishOnly",
+    "prepack": "touch prepack",
+    "postpack": "touch postpack",
+    "publish": "touch publish",
+    "postpublish": "touch postpublish",
+    "preinstall": "touch preinstall",
+    "install": "touch install",
+    "postinstall": "touch postintall",
+    "preuninstall": "touch preuninstall",
+    "uninstall": "touch uninstall",
+    "postuninstall": "touch postuninstall"
+  }
+}
